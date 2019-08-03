@@ -1,0 +1,10 @@
+Open URL : https://www.fly365.com
+Insert Values for Origin and Destination fields
+Select value Depature date for example 21 August and Retuen date 18 September
+Click Search 
+
+Actual:
+Dates are shifted one day behind in the calender for example date will show as  20 August and Return date 17 September
+
+Expected:
+Dates should remain as user selected
